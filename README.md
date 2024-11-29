@@ -56,13 +56,8 @@ Welcome to my GitHub space! 🚀 Here you'll find amazing projects that reflect 
 
 ---
 
-## ✨ Just for Fun:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=435&lines=Always+learning+new+tech!;Passionate+about+design+and+code!;I'm+probably+playing+Minecraft+right+now!" alt="Typing SVG" />
-
----
-
-> 💡 *Let's connect and build something amazing together!* 🚀
+> 💡 *It's nice to have you here, check out my projects!* 🚀
 
 ## ✨ Just for Fun:
 
