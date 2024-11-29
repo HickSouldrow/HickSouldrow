@@ -74,8 +74,8 @@ Welcome to my GitHub space! 🚀 Here you'll find amazing projects that reflect 
 
 ## ✨ Just for Fun:
 
-<div style="border: 2px solid #32CD32; padding: 10px; border-radius: 5px; text-align: center;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=435&lines=Web+developer+at+heart!;Passionate+about+learning!;Always+ready+for+challenges!;I'm+probably+playing+Minecraft+right+now!" alt="Typing SVG" />
+<div style="border: 2px solid #32CD32; padding: 10px; border-radius: 5px; text-align: center; background-color: #E8F5E9;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=435&lines=Web+developer+at+heart!;Passionate+about+learning!;Always+ready+for+challenges!;I'm+probably+playing+Minecraft+now!" alt="Typing SVG" />
 </div>
 
 ---
