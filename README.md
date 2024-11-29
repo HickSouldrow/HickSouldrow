@@ -14,7 +14,7 @@ Welcome to my GitHub space! 🚀 Here you'll find amazing projects that reflect 
 - 🎓 Student of **System Development** at [ETEC da Zona Leste](https://www.etec.sp.gov.br/).  
 - 🌐 Passionate about programming and technology, with a special love for **web development**.  
 - 🇬🇧 Constantly improving my English skills.  
-- 🔍 Exploring new tools, frameworks, and technologies every day.  
+- 🔍 Exploring new tools, frameworks, and technologies.  
 </div>
 
 ---
@@ -81,3 +81,4 @@ Welcome to my GitHub space! 🚀 Here you'll find amazing projects that reflect 
 ---
 
 > 💡 *It's nice to have you here—check out my projects and let's collaborate!* 🚀
+
