@@ -27,7 +27,7 @@ Welcome to my GitHub space! 🚀 Here you'll find amazing projects that reflect 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)  
-🛠 *Primarily used for **Arduino projects**, integrating hardware with code.*
+🛠 *C++ used for **Arduino projects**
 
 ---
 
