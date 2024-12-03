@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Hello World GIF" width="60%" align="center"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello, World GIF" width="30%" align="right"/>
 
-# 👋 Hello, I'm **Henrique da Silva** (aka HickSouldrow)
+# 👋 Hello, I'm **Henrique da Silva** (aka HickSouldrow) 👨‍💻
 
 **Welcome to my GitHub!** 🚀 This space is dedicated to my passion for technology, system development, and continuous learning. Here, you'll find projects that reflect my skills and creativity. Let's innovate together! 💻
 
