@@ -3,7 +3,7 @@
 # 👋 Hello, I'm **Henrique da Silva** (aka HickSouldrow) 👨‍💻
 
 **Welcome to my GitHub!** 🚀 This space is dedicated to my passion for technology, system development, and continuous learning. Here, you'll find projects that reflect my skills and creativity. Let's innovate together! 💻
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello, World GIF" width="30%" align="right"/>
+
 ---
 
 ## 🌟 About Me:
@@ -15,7 +15,7 @@
 - 🗣️ Always improving my **English communication** skills.  
 - 🔍 Enthusiastic about learning new tools, frameworks, and technologies.  
 - 💡 Constantly seeking to turn innovative ideas into impactful solutions.
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello, World GIF" width="30%" align="right"/>
 ---
 
 ## 💼 Core Skills:
