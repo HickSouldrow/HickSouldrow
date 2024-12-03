@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Hello World GIF" width="100%" />
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Hello World GIF" width="60%" align="center"/>
 
 # 👋 Hello, I'm **Henrique da Silva** (aka HickSouldrow)
 
