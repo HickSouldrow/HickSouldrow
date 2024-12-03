@@ -7,12 +7,11 @@
 ---
 
 ## 🌟 About Me:
-
-> **"Code is my canvas, and technology is my palette!"**
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hello, World GIF" width="30%" align="right"/>
+> **"Code is my canvas, and technology is my palette!"**
+
 - 🎓 **System Development** student at [ETEC da Zona Leste](https://www.etec.sp.gov.br/).  
 - 🌐 Passionate about programming, with a particular focus on **web development**.
-
 - 🗣️ Always improving my **English communication** skills.
 - 🔍 Enthusiastic about learning new tools, frameworks, and technologies.  
 - 💡 Constantly seeking to turn innovative ideas into impactful solutions.
