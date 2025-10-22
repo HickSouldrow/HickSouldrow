@@ -91,10 +91,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hicksouldrow/hicksouldrow/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hicksouldrow/hicksouldrow/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hicksouldrow/hicksouldrow/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=32CD32&width=500&lines=Passionate+about+Technology!;Web+Developer+in+Progress!;Always+Learning+and+Growing!" alt="Typing Animation"/>
+</div>
