@@ -50,8 +50,8 @@
 ## GitHub Insights:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HickSouldrow&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Henrique's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HickSouldrow&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HickSouldrow&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HickSouldrow&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ###
