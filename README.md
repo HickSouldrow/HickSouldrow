@@ -43,15 +43,17 @@
 ## Let's Collaborate:
 
 -  **Email**: [henriquedasilvamacedo6@gmail.com](mailto:henriquedasilvamacedo6@gmail.com)  
--  **Portfolio**: *(Coming soon!)*  
+-  **Portfolio**:[portfolio-Henrique](https://portfolio-henrique-kohl.vercel.app/)
   
 ---
 
 ## GitHub Insights:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HickSouldrow&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HickSouldrow&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/HickSouldrow"></a>
+  <img height="180em" src="https://github-readme-stats-self-two-67.vercel.app/api?username=HickSouldrow&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-self-two-67.vercel.app/api/top-langs/?username=HickSouldrow&layout=compact&langs_count=7&theme=holi"/>
+</div>
 </div>
 
 ###
